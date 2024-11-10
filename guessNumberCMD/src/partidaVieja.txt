@@ -1,0 +1,6 @@
+Intento nº 1: 1567 
+Aciertos: 1 Coincidencias: 2 
+Intento nº 2: 3187 
+Aciertos: 0 Coincidencias: 1 
+Intento nº 3: 9146 
+Aciertos: 1 Coincidencias: 1 
