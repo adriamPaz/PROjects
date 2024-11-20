@@ -55,7 +55,7 @@ fun play(difficulty:Int){
         }
         if(sumPos>0 && sumNum>0) sumNum=sumNum-sumPos
         savedGame.append("Aciertos: $sumPos Coincidencias: $sumNum \n")
-        println("${BG_GREEN}${WHITE}$sumPos${BG_YELLOW}$sumNum${RESET}${BLACK}")
+        println("${BG_GREEN}${WHITE}$sumPos${BG_YELLOW}$sumNum${RESET}${WHITE}")
         if (sumPos==4){
             println("¡Felicidades, has ganado en tu ${i+1}º intento!")
             break
